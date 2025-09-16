@@ -1,4 +1,4 @@
-package narendrabahunadam.dashboard.config;
+package narendrabahunadam;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;

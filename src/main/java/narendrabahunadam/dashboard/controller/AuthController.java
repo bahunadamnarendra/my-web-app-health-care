@@ -1,6 +1,6 @@
 package narendrabahunadam.dashboard.controller;
 
-import narendrabahunadam.dashboard.config.JwtUtil;
+import narendrabahunadam.JwtUtil;
 import narendrabahunadam.dashboard.dto.AuthRequest;
 import narendrabahunadam.dashboard.dto.AuthResponse;
 import narendrabahunadam.dashboard.service.UserService;
